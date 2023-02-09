@@ -1,0 +1,27 @@
+2023/02/08-22:29:17.912 f47 Reusing MANIFEST /home/sofintech/Documentos/bot-whatsapp/botwhatsapp-venom/tokens/store/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/08-22:29:17.912 f47 Recovering log #39
+2023/02/08-22:29:17.918 f47 Reusing old log /home/sofintech/Documentos/bot-whatsapp/botwhatsapp-venom/tokens/store/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000039.log 
+2023/02/08-22:29:17.918 f47 Delete type=2 #37
+2023/02/08-22:29:18.163 f39 Level-0 table #44: started
+2023/02/08-22:29:18.168 f39 Level-0 table #44: 80734 bytes OK
+2023/02/08-22:29:18.173 f39 Delete type=0 #39
+2023/02/08-22:29:18.173 f39 Manual compaction at level-0 from '\x00\x14\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at '\x00\x14\x00\x00\xc8\x16\x00v\x00e\x00r\x00i\x00f\x00i\x00e\x00d\x00-\x00b\x00u\x00s\x00i\x00n\x00e\x00s\x00s\x00-\x00n\x00a\x00m\x00e' @ 20458 : 1
+2023/02/08-22:29:18.174 f39 Compacting 1@0 + 1@1 files
+2023/02/08-22:29:18.181 f39 Generated table #45@0: 4786 keys, 53725 bytes
+2023/02/08-22:29:18.181 f39 Compacted 1@0 + 1@1 files => 53725 bytes
+2023/02/08-22:29:18.185 f39 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/08-22:29:18.185 f39 Delete type=2 #44
+2023/02/08-22:29:18.186 f39 Manual compaction at level-0 from '\x00\x14\x00\x00\xc8\x16\x00v\x00e\x00r\x00i\x00f\x00i\x00e\x00d\x00-\x00b\x00u\x00s\x00i\x00n\x00e\x00s\x00s\x00-\x00n\x00a\x00m\x00e' @ 20458 : 1 .. '\x00\x15\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/08-22:29:18.187 f39 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/08-22:29:18.189 f46 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/02/08-22:29:18.190 f47 Level-0 table #47: started
+2023/02/08-22:29:18.194 f47 Level-0 table #47: 11296 bytes OK
+2023/02/08-22:29:18.198 f47 Delete type=0 #43
+2023/02/08-22:29:18.198 f47 Delete type=2 #41
+2023/02/08-22:29:18.199 f63 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x15\x00\x00\x05' @ 24271 : 1
+2023/02/08-22:29:18.199 f63 Compacting 1@0 + 1@1 files
+2023/02/08-22:29:18.205 f63 Generated table #48@0: 4237 keys, 35647 bytes
+2023/02/08-22:29:18.205 f63 Compacted 1@0 + 1@1 files => 35647 bytes
+2023/02/08-22:29:18.209 f63 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/08-22:29:18.209 f63 Delete type=2 #47
+2023/02/08-22:29:18.209 f63 Manual compaction at level-0 from '\x00\x15\x00\x00\x05' @ 24271 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)

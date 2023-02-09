@@ -1,0 +1,14 @@
+2023/02/08-19:03:57.976 a0ca Reusing MANIFEST /home/sofintech/Documentos/bot-whatsapp/botwhatsapp-venom/tokens/store/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/08-19:03:57.977 a0ca Recovering log #35
+2023/02/08-19:03:57.977 a0ca Reusing old log /home/sofintech/Documentos/bot-whatsapp/botwhatsapp-venom/tokens/store/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000035.log 
+2023/02/08-19:03:57.977 a0ca Delete type=2 #34
+2023/02/08-19:03:58.261 a0ca Level-0 table #40: started
+2023/02/08-19:03:58.271 a0ca Level-0 table #40: 16097 bytes OK
+2023/02/08-19:03:58.283 a0ca Delete type=0 #35
+2023/02/08-19:03:58.283 a0ca Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at '\x00\x10\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 18008 : 1
+2023/02/08-19:03:58.283 a0ca Compacting 1@0 + 1@1 files
+2023/02/08-19:03:58.292 a0ca Generated table #41@0: 2994 keys, 25353 bytes
+2023/02/08-19:03:58.292 a0ca Compacted 1@0 + 1@1 files => 25353 bytes
+2023/02/08-19:03:58.300 a0ca compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/08-19:03:58.301 a0ca Delete type=2 #40
+2023/02/08-19:03:58.301 a0ca Manual compaction at level-0 from '\x00\x10\x06 \x03\x00\x00\x00\x00\x00\x80V@\x00\x01\x0b\x00I\x00d\x00T\x00t\x00l\x009\x000\x00D\x00a\x00y\x00s' @ 18008 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
